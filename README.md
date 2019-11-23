@@ -3,7 +3,11 @@
 操作系统: Linux/Mac
 JAVA: >=JDK8
 PYTHON: python3
-    依赖: scipy, numpy
+    依赖: numpy, scipy
+    安装命令: pip3 install numpy scipy
+SPOT:
+    下载网址: https://spot.lrde.epita.fr/install.html (包括安装方法)
+    设置环境变量保证: ltl2tga 等命令可以在PATH中找到
 ```
 
 # 测试版本运行
